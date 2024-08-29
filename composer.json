@@ -1,0 +1,11 @@
+{
+    "name": "weed/essence-lib",
+    "require": {
+        "pocketmine/pocketmine-mp": "^5.18"
+    },
+    "autoload": {
+        "psr-4": {
+            "weed\\essencelib\\": "src/weed/essencelib/"
+        }
+    }
+}
